@@ -18,7 +18,7 @@ public class Client {
         importadora1.add(new Automovil(3000,"Daihatsu",7,2));
         importadora1.add(new Automovil(5000,"Volkswagen",5,3));
 
-        AgregateImportadora1 importadora2 = new AgregateImportadora1();
+        AgregateImportadora2 importadora2 = new AgregateImportadora2();
         importadora2.add(new Automovil(2000,"Lada",5,1));
         importadora2.add(new Automovil(3000,"Suzuki",4,2));
         importadora2.add(new Automovil(4000,"Porsche",4,3));
@@ -26,7 +26,7 @@ public class Client {
         importadora2.add(new Automovil(3000,"Daihatsu",7,2));
         importadora2.add(new Automovil(5000,"Volkswagen",5,3));
 
-        AgregateImportadora1 importadora3 = new AgregateImportadora1();
+        AgregateImportadora3 importadora3 = new AgregateImportadora3();
         importadora3.add(new Automovil(2000,"Lada",5,1));
         importadora3.add(new Automovil(3000,"Suzuki",4,2));
         importadora3.add(new Automovil(4000,"Porsche",4,3));
@@ -34,7 +34,7 @@ public class Client {
         importadora3.add(new Automovil(3000,"Daihatsu",7,2));
         importadora3.add(new Automovil(5000,"Volkswagen",5,3));
 
-        AgregateImportadora1 importadora4 = new AgregateImportadora1();
+        AgregateImportadora4 importadora4 = new AgregateImportadora4();
         importadora4.add(new Automovil(5000,"Lada",5,1));
         importadora4.add(new Automovil(4000,"Suzuki",4,2));
         importadora4.add(new Automovil(3000,"Porsche",4,3));
