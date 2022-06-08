@@ -18,6 +18,7 @@ public class Client {
        console.addCommand(modoDefensa);
        console.addCommand(disparar);
 
+
        console.makeCommands();
 
 
